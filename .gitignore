@@ -1,0 +1,4 @@
+geckodriver.log
+processed/
+unprocessed/
+__pycache__
